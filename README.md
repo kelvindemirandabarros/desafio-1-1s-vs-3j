@@ -1,4 +1,4 @@
-# Desafio Técnico: Performance e Análise de Dados via API
+# Desafio Técnico: Performance e Análise de Dados via API (Vídeo no [YT](https://www.youtube.com/watch?v=AFtRYXJVO-4)
 
 ## Objetivo
 
